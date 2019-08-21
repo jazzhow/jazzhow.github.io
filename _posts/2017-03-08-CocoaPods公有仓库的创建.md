@@ -3,7 +3,7 @@ layout:     post
 title:      CocoaPods公有仓库的创建
 subtitle:   手把手教你创建 CocoaPods 公有仓库
 date:       2017-03-08
-author:     BY
+author:     Jazzhow
 header-img: img/post-bg-ios10.jpg
 catalog: true
 tags:
@@ -142,7 +142,7 @@ Pod::Spec.new do |s|
   # s.dependency   = "AFNetworking" # 依赖库
   
   # User
-  s.author             = { "BY" => "lfzhao@qq.com" } # 作者信息
+  s.author             = { "Jazzhow" => "lfzhao@qq.com" } # 作者信息
   s.social_media_url   = "http://jazzhow.github.io" # 个人主页
 
 end
