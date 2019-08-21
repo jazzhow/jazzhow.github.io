@@ -53,13 +53,13 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 子豪的博客 | BY Blog		# SEO 标题
+title: zihao Blog                    # 你的博客网站标题
+SEOTitle: 子豪的博客 | zihao Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
 github_username: jazzhow     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+jianshu_username: d234573035aa  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -127,7 +127,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 ### Social-media Account
 
-在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
+在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/d234573035aa>
 
 	# SNS settings
 	RSS: false
